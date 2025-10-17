@@ -186,13 +186,13 @@ model.fit(X, y, epochs=20, batch_size=16, verbose=1)
 
 ## 📊 Power BI Dashboard
 
-The Power BI dashboard displays:\
-- 📈 **Forecasted Sales vs Actuals**\
-- 🧭 **Seasonality Trends by Month/Week**\
-- 🛒 **Top Performing Products & Regions**\
+The Power BI dashboard displays:
+- 📈 **Forecasted Sales vs Actuals**
+- 🧭 **Seasonality Trends by Month/Week**
+- 🛒 **Top Performing Products & Regions**
 - 🕒 **Rolling Forecast Accuracy (MAPE, RMSE)**
 
-**Example visual layout:**\
+**Example visual layout:**
 ![Power BI
 Dashboard](https://github.com/yourusername/repo-name/assets/powerbi-sales-forecast.png)
 
