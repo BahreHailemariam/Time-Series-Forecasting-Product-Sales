@@ -32,9 +32,9 @@ product sales** based on historical data. It integrates **data
 preprocessing**, **exploratory analysis**, **forecasting models (ARIMA,
 Prophet, LSTM)**, and **Power BI dashboards** for visualization.
 
-It helps retail or e-commerce companies:\
-- Predict sales trends by product and region,\
-- Plan inventory and logistics, and\
+It helps retail or e-commerce companies:
+- Predict sales trends by product and region,
+- Plan inventory and logistics, and
 - Optimize marketing and pricing strategies.
 
 ------------------------------------------------------------------------
