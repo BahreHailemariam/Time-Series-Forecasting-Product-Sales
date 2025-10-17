@@ -54,9 +54,9 @@ enables data-driven planning.
 
 ## 🎯 Objectives
 
--   Forecast product sales for the next 3--6 months.\
--   Detect seasonality and holiday effects.\
--   Evaluate model performance (RMSE, MAPE).\
+-   Forecast product sales for the next 3--6 months.
+-   Detect seasonality and holiday effects.
+-   Evaluate model performance (RMSE, MAPE).
 -   Create an interactive Power BI dashboard for visualization.
 
 ------------------------------------------------------------------------
