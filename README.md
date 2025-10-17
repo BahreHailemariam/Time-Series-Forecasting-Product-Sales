@@ -108,10 +108,10 @@ imputation)
 
 ## 🔁 Data Workflow
 
-1.  **Extract** historical sales data from CSV or SQL Server.\
-2.  **Transform** data (handle outliers, resample daily/monthly).\
-3.  **Model** using ARIMA, Prophet, and LSTM.\
-4.  **Evaluate** models and select the best forecast.\
+1.  **Extract** historical sales data from CSV or SQL Server.
+2.  **Transform** data (handle outliers, resample daily/monthly).
+3.  **Model** using ARIMA, Prophet, and LSTM.
+4.  **Evaluate** models and select the best forecast.
 5.  **Visualize** in Power BI dashboard.
 
 ------------------------------------------------------------------------
