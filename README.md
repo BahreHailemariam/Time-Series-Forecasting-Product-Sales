@@ -214,18 +214,18 @@ electronics) benefited most from Prophet and LSTM forecasts.
 
 ## 🧾 Future Improvements
 
--   Integrate **external data** (weather, promotions).\
--   Build **real-time dashboards** with streaming APIs.\
--   Deploy as a **Flask API or Power BI Gateway refresh**.\
+-   Integrate **external data** (weather, promotions).
+-   Build **real-time dashboards** with streaming APIs.
+-   Deploy as a **Flask API or Power BI Gateway refresh**.
 -   Use **automated hyperparameter tuning** for models.
 
 ------------------------------------------------------------------------
 
 ## 👤 Author
 
-**Bahre Hailemariam**\
-📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
-🔗 [LinkedIn](#) \| [Portfolio](#) \| [GitHub](#)
+**Bahre Hailemariam**
+📍 *Data Analyst & BI Developer | 4+ Years Experience*
+🔗 [LinkedIn](#) | [Portfolio](#) | [GitHub](#)
 
 ------------------------------------------------------------------------
 
