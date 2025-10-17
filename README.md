@@ -84,10 +84,10 @@ enables data-driven planning.
 ## ✨ Key Features
 
 ✅ **Automated time-series data preparation** (resampling, missing value
-imputation)\
-✅ **Model comparison** across ARIMA, Prophet, and LSTM\
-✅ **Cross-validation** for robust accuracy metrics\
-✅ **Power BI dashboard** for trend visualization\
+imputation)
+✅ **Model comparison** across ARIMA, Prophet, and LSTM
+✅ **Cross-validation** for robust accuracy metrics
+✅ **Power BI dashboard** for trend visualization
 ✅ **Scheduled retraining pipeline (SQL Agent / Airflow)**
 
 ------------------------------------------------------------------------
