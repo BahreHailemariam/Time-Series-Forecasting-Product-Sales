@@ -10,17 +10,17 @@ Dashboard](https://github.com/yourusername/repo-name/assets/sales-forecast-dashb
 
 ## 🧩 Table of Contents
 
--   [Project Overview](#-project-overview)\
--   [Business Problem](#-business-problem)\
--   [Objectives](#-objectives)\
--   [Solution Architecture](#-solution-architecture)\
--   [Key Features](#-key-features)\
--   [Tech Stack](#-tech-stack)\
--   [Data Workflow](#-data-workflow)\
--   [Python Code Examples](#-python-code-examples)\
--   [Power BI Dashboard](#-power-bi-dashboard)\
--   [Results & Insights](#-results--insights)\
--   [Future Improvements](#-future-improvements)\
+-   [Project Overview](#-project-overview)
+-   [Business Problem](#-business-problem)
+-   [Objectives](#-objectives)
+-   [Solution Architecture](#-solution-architecture)
+-   [Key Features](#-key-features)
+-   [Tech Stack](#-tech-stack)
+-   [Data Workflow](#-data-workflow)
+-   [Python Code Examples](#-python-code-examples)
+-   [Power BI Dashboard](#-power-bi-dashboard)
+-   [Results & Insights](#-results--insights)
+-   [Future Improvements](#-future-improvements)
 -   [Author](#-author)
 
 ------------------------------------------------------------------------
