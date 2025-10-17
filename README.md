@@ -42,9 +42,9 @@ It helps retail or e-commerce companies:
 ## 💼 Business Problem
 
 Sales fluctuate due to **seasonality**, **holidays**, **promotions**,
-and **market conditions**. Without accurate forecasts, businesses risk:\
-- Overstock or understock issues,\
-- Missed revenue opportunities,\
+and **market conditions**. Without accurate forecasts, businesses risk:
+- Overstock or understock issues,
+- Missed revenue opportunities,
 - Poor cash flow and supply chain inefficiencies.
 
 This project builds a **predictive sales forecasting pipeline** that
